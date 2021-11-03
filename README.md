@@ -19,7 +19,7 @@ Extreme lazy human. But laziness is at the bases of the most wonderful invention
 
 ## 🛠 Skills
 
-<div style="text-align: center;background-color: #CCC;padding: 1rem;">
+<div class="bg-blue-light mb-2">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50" />
   </a>
