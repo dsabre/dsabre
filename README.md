@@ -1,6 +1,4 @@
-
-# Hi, I'm Daniele! 👋
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi,%20I'm%20Daniele&fontSize=70&animation=blink&fontAlign=31&fontAlignY=78&rotate=10)
 
 ## 🔗 Links
 
