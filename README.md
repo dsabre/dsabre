@@ -16,4 +16,4 @@ Extreme lazy human. But laziness is at the bases of the most wonderful invention
 
 
 ## 🛠 Skills
-[PHP](https://www.php.net/), [Symfony](https://symfony.com/), [MySQL](https://www.mysql.com/it/), Javascript, [jQuery](https://jquery.com/), HTML, CSS, SCSS, [Vue.js](https://vuejs.org/), [Angular](https://angular.io/)
+[PHP](https://www.php.net/), [Symfony](https://symfony.com/), [MySQL](https://www.mysql.com/it/), [Javascript](https://www.javascript.com/), [jQuery](https://jquery.com/), HTML, CSS, [SCSS](https://sass-lang.com/), [Vue.js](https://vuejs.org/), [Angular](https://angular.io/)
