@@ -16,4 +16,5 @@ Extreme lazy human. But laziness is at the bases of the most wonderful invention
 
 
 ## 🛠 Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" />
 [PHP](https://www.php.net/), [Symfony](https://symfony.com/), [MySQL](https://www.mysql.com/it/), [Javascript](https://www.javascript.com/), [jQuery](https://jquery.com/), HTML, CSS, [SCSS](https://sass-lang.com/), [Vue.js](https://vuejs.org/), [Angular](https://angular.io/)
