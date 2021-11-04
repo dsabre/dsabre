@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Extreme lazy human. But laziness is at the bases of the most wonderful invention of the world. Laziness = invention. ;D
+Extreme lazy human. But laziness is at the bases of the most wonderful inventions of the world. Laziness = invention. ;D
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raniel86&show_icons=true&theme=dracula)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raniel86&layout=compact&theme=dracula)
