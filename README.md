@@ -10,7 +10,7 @@
 [![npm old](https://img.shields.io/badge/npm%20old-000000?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~raniel)
 
 
-## 🚀 About Me
+## 👤 About Me
 
 I'm a lazy human that love automations.
 
@@ -70,3 +70,9 @@ I'm a lazy human that love automations.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" title="Electron" width="50" height="50" />
   </a>
 </div>
+
+
+## 🤝 Support me
+<a href="https://www.buymeacoffee.com/daniele.sabre" target="_blank">
+  <img src="https://raw.githubusercontent.com/dsabre/dsabre/main/images/bmc.png" alt="Buy Me a Coffee" title="Buy Me a Coffee" height="50" />
+</a>
