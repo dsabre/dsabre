@@ -30,7 +30,7 @@ I'm a lazy human that love automations.
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" title="Bootstrap" width="50" height="50" />-->
-    <img src="https://raw.githubusercontent.com/dsabre/dsabre/main/images/bootstrap-logo.svg" alt="Symfony" title="Symfony" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/dsabre/dsabre/main/images/bootstrap-logo.svg" alt="Bootstrap" title="Bootstrap" height="50" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" />
