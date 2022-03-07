@@ -65,7 +65,8 @@ I'm a lazy human that love automations.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" title="MySQL" width="50" height="50" />
   </a>
   <a href="https://www.kernel.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="50" height="50" />
+    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="50" height="50" />-->
+    <img src="https://raw.githubusercontent.com/dsabre/dsabre/main/images/logos/linux.png" alt="Linux" title="Linux" height="50" />
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" title="Arduino" width="50" height="50" />
