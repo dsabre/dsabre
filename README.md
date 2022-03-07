@@ -30,7 +30,7 @@ I'm a lazy human that love automations.
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" title="Bootstrap" width="50" height="50" />-->
-    <img src="https://raw.githubusercontent.com/dsabre/dsabre/main/images/bootstrap-logo.svg" alt="Bootstrap" title="Bootstrap" height="50" />
+    <img src="https://raw.githubusercontent.com/dsabre/dsabre/main/images/logos/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="50" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" />
@@ -51,11 +51,12 @@ I'm a lazy human that love automations.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" title="jQuery" width="50" height="50" />
   </a>
   <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" title="PHP" width="50" height="50" />
+    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" title="PHP" width="50" height="50" />-->
+    <img src="https://raw.githubusercontent.com/dsabre/dsabre/main/images/logos/php.svg" alt="PHP" title="PHP" height="50" />
   </a>
   <a href="https://symfony.com/" target="_blank">
     <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" title="Symfony" width="50" height="50" />-->
-    <img src="https://raw.githubusercontent.com/dsabre/dsabre/main/images/symfony-logo.svg" alt="Symfony" title="Symfony" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/dsabre/dsabre/main/images/logos/symfony.svg" alt="Symfony" title="Symfony" height="50" />
   </a>
   <a href="https://www.drupal.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="Drupal" title="Drupal" width="50" height="50" />
