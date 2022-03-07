@@ -53,7 +53,8 @@ I'm a lazy human that love automations.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" title="PHP" width="50" height="50" />
   </a>
   <a href="https://symfony.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" title="Symfony" width="50" height="50" />
+    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" title="Symfony" width="50" height="50" />-->
+    <img src="https://raw.githubusercontent.com/dsabre/dsabre/main/images/symfony-logo.svg" alt="Symfony" title="Symfony" width="50" height="50" />
   </a>
   <a href="https://www.drupal.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="Drupal" title="Drupal" width="50" height="50" />
